@@ -18,7 +18,7 @@ PROJE -1
 
 ---
 
-2. Big-O gösterimini yazınız.
+2.Big-O gösterimini yazınız.
 ---
 
 O(n^2)
